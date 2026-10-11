@@ -1,0 +1,38 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/pydantic/perses-shared/commit/bcb5f0209ada59d720eb141912aec29dfed17b62",
+  "@type": "git:Commit",
+  "git:hexsha": "bcb5f0209ada59d720eb141912aec29dfed17b62",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/pydantic/perses-shared"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/bcb5f0209ada59d720eb141912aec29dfed17b62.nq.gz",
+      "repolex:graphFileSize": 145767
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 126276
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 1735
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 1234
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-11T20:03:01.366766+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
