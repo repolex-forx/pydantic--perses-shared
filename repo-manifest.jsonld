@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pydantic/perses-shared/commit/bcb5f0209ada59d720eb141912aec29dfed17b62",
       "git:hexsha": "bcb5f0209ada59d720eb141912aec29dfed17b62",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pydantic/perses-shared/commit/9dc75e1f20828b5d0fb70b5652701055591f80ac",
