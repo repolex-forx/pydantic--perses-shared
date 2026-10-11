@@ -1,0 +1,11 @@
+{
+  "org": "pydantic",
+  "repo": "perses-shared",
+  "versions": [
+    {
+      "commit": "bcb5f0209ada59d720eb141912aec29dfed17b62",
+      "tag": "",
+      "parsed_at": "2026-10-11T20:07:15.453575+00:00"
+    }
+  ]
+}
